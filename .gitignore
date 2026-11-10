@@ -1,0 +1,6 @@
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
